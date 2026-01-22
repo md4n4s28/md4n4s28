@@ -128,21 +128,9 @@ hobbies:
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md4n4s28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=md4n4s28&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=27" alt="GitHub Stats"/>
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md4n4s28&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-  
-</div>
-
-<div align="center">
-  
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=md4n4s28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md4n4s28&theme=radical" alt="Profile Summary"/>
   
 </div>
 
