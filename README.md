@@ -130,7 +130,7 @@ hobbies:
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md4n4s28&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats"/>
   
-  <img width="48%" src="https://streak-stats.demolab.com/?user=md4n4s28&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=md4n4s28&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
   
 </div>
 
