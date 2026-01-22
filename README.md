@@ -128,17 +128,17 @@ hobbies:
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md4n4s28&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=md4n4s28&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
   
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=md4n4s28&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=md4n4s28&theme=radical&hide_border=true" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md4n4s28&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md4n4s28&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
   
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=md4n4s28&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Contribution Graph"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=md4n4s28&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
   
 </div>
 
