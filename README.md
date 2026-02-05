@@ -145,6 +145,11 @@ hobbies:
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect & Collaborate
 
+
+<p align="center">
+  <i>✅ Open-source contributor to Metrolist (Android music player)</i>
+</p>
+
 <p align="center">
   <i>💡 Open to collaborating on Backend Projects and Spring Boot Applications</i>
 </p>
