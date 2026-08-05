@@ -21,12 +21,13 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: Generate pacman contribution graph
-        uses: SnkBounty/pacman-contribution-graph@v1.0.0
+      - name: Generate Pacman contribution graph
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Output files generated in the 'output' branch
-          svg_out_path: dist/pacman-contribution-graph.svg
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
           
       - name: Push Pacman SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
