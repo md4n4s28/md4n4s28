@@ -122,6 +122,16 @@ hobbies:
 
 ## 🐍 Contribution Graph
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/md4n4s28/md4n4s28/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/md4n4s28/md4n4s28/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/md4n4s28/md4n4s28/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/md4n4s28/md4n4s28/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </p>
